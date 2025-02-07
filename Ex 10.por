@@ -6,7 +6,7 @@ programa
 	{
 		inteiro num
 		logico primo = verdadeiro
-		
+		escreva("Digite um número: ")
 		leia(num)
 
 		para(inteiro i = num - 1; i > 1; i--) {
